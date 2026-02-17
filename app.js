@@ -52,3 +52,5 @@ const displayProducts = (products) => {
 };
 
 loadProducts();
+
+
